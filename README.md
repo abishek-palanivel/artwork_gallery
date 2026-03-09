@@ -2,6 +2,14 @@
 
 A React + TypeScript application that displays artwork data from the Art Institute of Chicago API using PrimeReact DataTable with server-side pagination and persistent row selection.
 
+**Assignment for:** GrowMe Organic Private Limited - React.JS Development Internship (First Round)
+
+## Live Demo
+
+🚀 **Live Application:** [https://artworkgallery1.netlify.app](https://artworkgallery1.netlify.app)
+
+📦 **GitHub Repository:** [https://github.com/abishek-palanivel/artwork_gallery](https://github.com/abishek-palanivel/artwork_gallery)
+
 ## Features
 
 - **Server-side pagination**: Fetches data only for the current page
